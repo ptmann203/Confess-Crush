@@ -2,9 +2,9 @@ const CONFIG = {
     titleWeb: "Happy Brithday Tuấn",
     introTitle: 'Tuấn Hòa ',
     introDesc: `Mỗi mùa xuân sang
-    Nghĩa trang lại gần thêm một đoạn
+    Nghĩa trang lại gần thêm một đoạn.
     Lê Cảnh Thắng
-    Chúc mừng sinh nhật`,
+    Chúc mừng sinh nhật.`,
     btnIntro: 'Cảm ơn Thắng nhiều <3',
     title: 'Thằng giang đẹp trai đúng không',
     desc: 'Chó Tuấn',
