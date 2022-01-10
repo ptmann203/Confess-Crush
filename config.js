@@ -3,11 +3,11 @@ const CONFIG = {
     introTitle: 'Tuấn Hòa ',
     introDesc: `Mỗi mùa xuân sang
     Nghĩa trang lại gần thêm một đoạn
-    Đại ca mi nè
+    Lê Cảnh Thắng
     Chúc mừng sinh nhật`,
-    btnIntro: 'Cảm ơn Thắng nhiều',
+    btnIntro: 'Cảm ơn Thắng nhiều <3',
     title: 'Thằng giang đẹp trai đúng không',
-    desc: 'Tuán đệ Thắng Giang chì',
+    desc: 'Chó Tuấn',
     btnYes: 'Dạ anh Thắng <33',
     btnNo: 'Không nha :3',
     question: 'Tau hay mi đẹp trai hơn',
